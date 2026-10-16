@@ -1,0 +1,2 @@
+language,target_child,target_age,age_months_session_summary,age_months_long,analysis_age_months,resolution
+chintang,LDCh2,3;04.00,39,40,40.0,Use structured target_age and matching long-data age; assess age 39 in sensitivity fits.

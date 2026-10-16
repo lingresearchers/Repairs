@@ -1,0 +1,110 @@
+[
+  {
+    "file": "models/draws/child_age39/chain_1.csv.gz",
+    "source": "models/sensitivity/child_age39.rds",
+    "chain": 1,
+    "iterations": 1500,
+    "source_sha256": "7f67f6eeecd135f4fb6ea38a94a687c6d43e9139586f57edf57ea581dbd4cde7",
+    "sha256": "863754ca4cdf99948d02460f7cfc1530451a374913b801c91c33eec176ee02a5",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/child_age39/chain_2.csv.gz",
+    "source": "models/sensitivity/child_age39.rds",
+    "chain": 2,
+    "iterations": 1500,
+    "source_sha256": "7f67f6eeecd135f4fb6ea38a94a687c6d43e9139586f57edf57ea581dbd4cde7",
+    "sha256": "6189ae6b29b232fd1a6db6eccec3af22ec94ccb5238fe6bd83c4986b9f00d58c",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/child_age39/chain_3.csv.gz",
+    "source": "models/sensitivity/child_age39.rds",
+    "chain": 3,
+    "iterations": 1500,
+    "source_sha256": "7f67f6eeecd135f4fb6ea38a94a687c6d43e9139586f57edf57ea581dbd4cde7",
+    "sha256": "e637629072ea303351c9c8959601e65b117e5f4cf129aa8715f52463139f0794",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/child_age39/chain_4.csv.gz",
+    "source": "models/sensitivity/child_age39.rds",
+    "chain": 4,
+    "iterations": 1500,
+    "source_sha256": "7f67f6eeecd135f4fb6ea38a94a687c6d43e9139586f57edf57ea581dbd4cde7",
+    "sha256": "1d9db51ada30c8c55b9521d8a5626e0f96db08ba189c047994d473bf4739195e",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/joint_age39/chain_1.csv.gz",
+    "source": "models/sensitivity/joint_age39.rds",
+    "chain": 1,
+    "iterations": 1500,
+    "source_sha256": "95afe76d741f1d21e0f0065dbf7ccaa2f4475df8dcb9c8d973c4452f3caf58fd",
+    "sha256": "9303e4a0a273b98c134c874888098029eb0c733297da35f909b175a39bbff652",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/joint_age39/chain_2.csv.gz",
+    "source": "models/sensitivity/joint_age39.rds",
+    "chain": 2,
+    "iterations": 1500,
+    "source_sha256": "95afe76d741f1d21e0f0065dbf7ccaa2f4475df8dcb9c8d973c4452f3caf58fd",
+    "sha256": "07ed83fdbc12049f59fedd40c8f457408cca9792eb9e94ba7079d81bd648d711",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/joint_age39/chain_3.csv.gz",
+    "source": "models/sensitivity/joint_age39.rds",
+    "chain": 3,
+    "iterations": 1500,
+    "source_sha256": "95afe76d741f1d21e0f0065dbf7ccaa2f4475df8dcb9c8d973c4452f3caf58fd",
+    "sha256": "0182130d80d89fe87aa8897aa85d22044c747597be2ec0b2aa9f9a17d8ae13fc",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/joint_age39/chain_4.csv.gz",
+    "source": "models/sensitivity/joint_age39.rds",
+    "chain": 4,
+    "iterations": 1500,
+    "source_sha256": "95afe76d741f1d21e0f0065dbf7ccaa2f4475df8dcb9c8d973c4452f3caf58fd",
+    "sha256": "754e83ecfafb53c4845b6a4d9d9278fd5c077d4660718ce4565d36a1c434c8ed",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/format_age39/chain_1.csv.gz",
+    "source": "models/sensitivity/format_age39.rds",
+    "chain": 1,
+    "iterations": 1500,
+    "source_sha256": "a29972b3b1eeaadeafe6a246756a8acf2adfcd91ea0e174b98fdb4441eb64d80",
+    "sha256": "ee340f32b17d906a29195660dd9dfbde63f1652e7faf1567a806dca84c3ff2cf",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/format_age39/chain_2.csv.gz",
+    "source": "models/sensitivity/format_age39.rds",
+    "chain": 2,
+    "iterations": 1500,
+    "source_sha256": "a29972b3b1eeaadeafe6a246756a8acf2adfcd91ea0e174b98fdb4441eb64d80",
+    "sha256": "a30fc92e235d1dd87a6421094a024c772169646c8429cfa7c127cdf6bedbf788",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/format_age39/chain_3.csv.gz",
+    "source": "models/sensitivity/format_age39.rds",
+    "chain": 3,
+    "iterations": 1500,
+    "source_sha256": "a29972b3b1eeaadeafe6a246756a8acf2adfcd91ea0e174b98fdb4441eb64d80",
+    "sha256": "7483fe7dcc815237eae44c95189240eba604fbe25515026c6a718282a7e97fdd",
+    "original_cmdstan_comments_recovered": false
+  },
+  {
+    "file": "models/draws/format_age39/chain_4.csv.gz",
+    "source": "models/sensitivity/format_age39.rds",
+    "chain": 4,
+    "iterations": 1500,
+    "source_sha256": "a29972b3b1eeaadeafe6a246756a8acf2adfcd91ea0e174b98fdb4441eb64d80",
+    "sha256": "b809e5d1dffa5037e8f843286c54df603aeb7df0b83ac47097dd02dd2dd7c783",
+    "original_cmdstan_comments_recovered": false
+  }
+]

@@ -1,0 +1,2 @@
+"model","draws","max_Rhat","min_bulk_ESS","min_tail_ESS","divergences","maximum_treedepth_hits","min_E_BFMI"
+"joint_linear",6000,1.00321335443902,1400.68538847336,1394.57992065067,0,0,0.772716862637258

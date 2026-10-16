@@ -1,0 +1,23 @@
+{
+  "post_hoc": true,
+  "threshold": 0.050000000000000003,
+  "family_size": 75,
+  "selected": 17,
+  "posterior_expected_incorrect_sign_proportion": 0.013279411764705882,
+  "posterior_expected_number_incorrect_signs": 0.22575000000000001,
+  "maximum_selected_local_false_sign_rate": 0.046124999999999999,
+  "minimum_unselected_local_false_sign_rate": 0.058874999999999997,
+  "minimum_selected_threshold_gap_in_mcse": 1.3908724411167031,
+  "rule": "Retain a directional claim only if its individual posterior false-sign probability is at most 0.05. The mean error among any such set is therefore also at most 0.05; no independence assumption is required for this expectation identity.",
+  "scope": "Model-dependent posterior directional error; not frequentist FDR/FWER, simultaneous 95% intervals, effect-size protection or preregistered confirmation.",
+  "original_data_sha256": ["f23268087ca51a3d50dbe006b0ccf6b1131c6eecd7d054662b1cb532fda28d40", "3a839ae814d305877a914e24251877ff994cfaf60957ee5caf4f32df033ce7b7"],
+  "model_sha256": {
+    "child_rate": "32f383e98993fadcd1b54b3b5aeee598343ec9a611f1b561db25f33780324816",
+    "joint_rate": "364d8ddbc6fbd3a204c4a20117f5347433d77739b74cde4bace188720542eeba",
+    "repair_formats": "72f12a600a8f753e66c881302aef1a5618a46d0b742e40988a96465451acab15"
+  },
+  "software": {
+    "R": "4.3.3",
+    "posterior": "1.5.0"
+  }
+}
